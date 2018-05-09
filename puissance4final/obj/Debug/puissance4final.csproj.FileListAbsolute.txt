@@ -1,0 +1,6 @@
+c:\users\nicolas\documents\visual studio 2015\Projects\puissance4final\puissance4final\bin\Debug\puissance4final.exe.config
+c:\users\nicolas\documents\visual studio 2015\Projects\puissance4final\puissance4final\bin\Debug\puissance4final.exe
+c:\users\nicolas\documents\visual studio 2015\Projects\puissance4final\puissance4final\bin\Debug\puissance4final.pdb
+c:\users\nicolas\documents\visual studio 2015\Projects\puissance4final\puissance4final\obj\Debug\puissance4final.csprojResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2015\Projects\puissance4final\puissance4final\obj\Debug\puissance4final.exe
+c:\users\nicolas\documents\visual studio 2015\Projects\puissance4final\puissance4final\obj\Debug\puissance4final.pdb
